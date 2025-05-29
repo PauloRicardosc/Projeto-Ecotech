@@ -4,4 +4,6 @@
 <br>
 <br>
 <h3>Técnologias ultilizadas</h3>
+<img src="https://github.com/PauloRicardosc/Projeto-Ecotech/blob/main/img/HTML5_Logo_256.png?raw=true"/>
+
 
