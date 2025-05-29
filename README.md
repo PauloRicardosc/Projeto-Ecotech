@@ -1,12 +1,11 @@
 <h1>ECOTECH</h1>
 <br>
-<h2>Esse projeto me ajudou a desenvolver muito na área de responsividade</h2>
+<br>
+<h2>Este é um projeto responsivo 💻📱</h2>
+<br>
+<h3>Aqui meu primeiro projeto responsivo que aprendi no <a href="https://rodolfo mori.com.br/devclub">DevClub</a></h3>
 <br>
 <br>
-<h3>Técnologias ultilizadas</h3>
-<ul>
-  <li>HTML</li>
-   <li>CSS</li>
-</ul>
+<img src="
 
 
